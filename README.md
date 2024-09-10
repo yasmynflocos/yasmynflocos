@@ -2,7 +2,7 @@
 
 Meu nome é yasmyn vitoria
 
-- Estou estudando na [alura;
+- Estou estudando na [alura](https://alura.com.br)
 - Estou me desenvolvendo na linguagem javaScript;
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos.
 
